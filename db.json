@@ -1,0 +1,23 @@
+[
+    {
+      "id": 0,
+      "name": "test1",
+      "list": [
+        "todo1",
+        "todo2"
+      ]
+    },
+    {
+      "id": 1,
+      "name": "  ",
+      "list": []
+    },
+    {
+      "id": 2,
+      "name": "test2",
+      "list": [
+        "todo1",
+        "todo2"
+      ]
+    }
+  ]
